@@ -1,84 +1,87 @@
-<h1 align="center">Hey, I'm Prasanth L 👋</h1>
+# Hey, I'm Prasanth 👋
 
-<p align="center">
-  <b>Full-Stack Web Developer</b> • CS Undergrad '27 • Tamil Nadu, India
-</p>
+I'm a full-stack web developer from Tamil Nadu, India — currently in my 3rd year of 
+Computer Science and already shipping real products.
 
-<p align="center">
-  <a href="https://linkedin.com/in/prasanth-l-a9b371329">LinkedIn</a> •
-  <a href="mailto:prasanthfamily2006@gmail.com">Email</a> •
-  <a href="https://github.com/Prasanthl8">GitHub</a>
-</p>
+I've done **4 internships**, built apps that handle real users and live data, and I'm 
+comfortable taking a project from a blank database schema all the way to production 
+deployment. I don't just write code — I own the whole thing.
 
----
-
-## About Me
-
-I'm a Computer Science undergraduate (graduating 2027) who builds and ships full-stack web apps from scratch. I've completed **4 industry internships** and delivered **5+ projects** — including a live-deployed healthcare app on Railway and a real-time bus tracking system using Supabase.
-
-I'm comfortable owning the full stack: designing database schemas, building REST APIs, writing frontend UI, and pushing to production.
-
-- 🎓 B.E. Computer Science — Veltech Multitech Engineering College (CGPA: 7.57)
-- 🔭 Currently building: deepening React + backend skills
-- 💬 Ask me about: JavaScript, MySQL, Supabase, REST APIs, full-stack deployment
-- 📫 Reach me: prasanthfamily2006@gmail.com
+If you need someone who can build fast, communicate clearly, and actually deliver — 
+let's talk.
 
 ---
 
-## Tech Stack
+## 🛠 What I Work With
 
-**Languages:** JavaScript (ES6+), HTML5, CSS3  
-**Frontend:** React, Responsive UI, Cross-browser Debugging  
-**Backend & DB:** REST APIs, MySQL, Supabase, CRUD, Schema Design  
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Railway, EmailJS  
-**Other:** IoT (Tinkercad), Cybersecurity basics (OWASP), Agile/SDLC
+**Languages**
+JavaScript (ES6+) • HTML5 • CSS3
 
----
+**Frontend**
+React.js • Responsive Web Design • Cross-browser Debugging
 
-## Featured Projects
+**Backend & Database**
+Node.js • REST APIs • MySQL • Supabase • Database Schema Design • CRUD
 
-### 🏥 [MedCare — Appointment Booking App](https://github.com/Prasanthl8/medcare-project)
-Full-stack 8-page healthcare web app deployed live on Railway.
-- Owned the entire MySQL database schema (CRUD across patients + appointments)
-- Built all frontend styling across 8 pages
-- Handled full API integration between frontend and backend
-- Supports 50+ patient records; demoed at college level
-
-`MySQL` `JavaScript` `HTML/CSS` `Railway`
+**Tools & Practices**
+Git • GitHub • Agile • Data Structures & Algorithms • Cybersecurity Fundamentals
 
 ---
 
-### 🚌 [Smart Bus Tracking System](https://github.com/Prasanthl8/bustracker-project)
-Solo-built real-time bus tracker supporting 3 live routes.
-- Real-time GPS sync using Supabase as live backend
-- Role-based access for admins and passengers
-- Automated email alerts for route changes via EmailJS
-- Tested with real users within 2–3 days of development
+## 🚀 Projects I'm Proud Of
 
-`Supabase` `JavaScript` `EmailJS` `HTML/CSS`
+### 🏥 MedCare — Healthcare Appointment Booking App
+> Full-stack • MySQL • Railway • 8 pages • Live deployment
 
----
+Built this with a team but owned the hard parts solo — the entire MySQL schema, 
+all the frontend styling across 8 pages, and pushing it to production on Railway.
+Handles 50+ patient records with full CRUD. Demoed at college level.
 
-## Internship Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| AI & IoT Development Intern | Hackniverse | Dec 2025 – Jan 2026 |
-| Cybersecurity Intern | Top Tech Developers | Jun – Aug 2025 |
-| Web Development Intern | Ediglobe | Jun – Aug 2025 |
-| Web Development Intern | Cyfoxgen | Dec 2024 |
+👉 [View Project](https://github.com/Prasanthl8/medcare-project)
 
 ---
 
-## Certifications
+### 🚌 Smart Bus Tracker
+> Solo project • Supabase • EmailJS • Real-time • Role-based access
 
-- HTML Master Certification — Cyfoxgen
-- Web Development Internship — Cyfoxgen & Ediglobe
-- IoT Internship — Hackniverse
-- Cybersecurity Internship — Top Tech Developers
+Built this alone from scratch. Live GPS updates for 3 bus routes, separate dashboards 
+for admins and passengers, and automated email alerts when routes change. 
+Had real users testing it within 3 days of starting.
+
+👉 [View Project](https://github.com/Prasanthl8/bustracker-project)
 
 ---
 
-<p align="center">
-  <i>Open to internship and junior developer opportunities — feel free to reach out!</i>
-</p>
+## 💼 Internship Experience
+
+**AI & IoT Intern** — Hackniverse *(Dec 2025 – Jan 2026)*
+Built 8 functional IoT circuits end-to-end using Tinkercad
+
+**Cybersecurity Intern** — Top Tech Developers *(Jun – Aug 2025)*
+Vulnerability assessments, OWASP practices, compliance documentation
+
+**Web Dev Intern** — Ediglobe *(Jun – Aug 2025)*
+Designed and delivered Mood Mirror — a fully responsive mood tracking app
+
+**Web Dev Intern** — Cyfoxgen *(Dec 2024)*
+Delivered 3 client-facing pages, fixed cross-browser layout bugs
+
+---
+
+## 📚 Currently Working On
+
+- Deepening my React.js and Node.js skills
+- Building more full-stack projects to grow my portfolio
+- Looking for **remote roles** and **freelance web development projects**
+
+---
+
+## 📬 Let's Work Together
+
+I'm open to freelance projects, remote internships, and junior developer roles.
+
+- 📧 Email: [prasanthfamily2006@gmail.com](mailto:prasanthfamily2006@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/prasanth-l-a9b371329](https://linkedin.com/in/prasanth-l-a9b371329)
+- 🐙 GitHub: [github.com/Prasanthl8](https://github.com/Prasanthl8)
+
+> *Available for remote work. Quick to respond. Serious about delivery.*
