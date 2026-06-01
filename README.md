@@ -31,6 +31,11 @@ I've done **4 industry internships**, built apps with real users and live data, 
 
 > *If you need someone who builds fast, communicates clearly, and actually delivers — let's talk.*
 
+- 🎓 B.E. Computer Science — Veltech Multitech Engineering College `CGPA: 7.57`
+- 🔭 Currently deepening **React.js + Node.js**
+- 💼 Open to **remote roles** and **freelance web projects**
+- 📫 **prasanthfamily2006@gmail.com**
+
 ---
 
 ## 📊 Quick Stats
@@ -150,23 +155,6 @@ Interactive mood tracking app with dynamic UI transitions, fully responsive. Pri
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasanthl8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanthl8&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prasanthl8&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanthl8&bg_color=1a1b27&color=58a6ff&line=bc8cff&point=ffa657&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
@@ -178,14 +166,6 @@ Interactive mood tracking app with dynamic UI transitions, fully responsive. Pri
 ![Symposium](https://img.shields.io/badge/Promptorix-TALOS_5.0_National_Symposium-ffa657?style=flat-square)
 ![Hackathon](https://img.shields.io/badge/Ideathon_Hackathon-Veltech-3fb950?style=flat-square)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prasanthl8/Prasanthl8/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
