@@ -1,23 +1,19 @@
 <div align="center">
 
-<!-- Animated colour bar -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prasanth%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20%7C%20Tamil%20Nadu%2C%20India&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+MySQL+%7C+Supabase+%7C+Node.js;Building+real+products+%F0%9F%9A%80;Open+to+Remote+%26+Freelance+%F0%9F%8C%8D;CS+Undergrad+2027+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Status pills -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Prasanthl8&color=58a6ff&style=flat-square&label=Profile+Views)
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-Remote_%26_Freelance-3fb950?style=flat-square)
 ![Internships](https://img.shields.io/badge/%E2%9A%A1_Internships-4_Completed-bc8cff?style=flat-square)
-![Projects](https://img.shields.io/badge/%F0%9F%9A%80_Projects-5+_Shipped-ffa657?style=flat-square)
+![Projects](https://img.shields.io/badge/%F0%9F%9A%80_Projects-5%2B_Shipped-ffa657?style=flat-square)
 ![CGPA](https://img.shields.io/badge/%F0%9F%8E%93_CGPA-7.57-ff7b72?style=flat-square)
 
 <br/>
 
-<!-- Social buttons -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanth-l-a9b371329)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasanthfamily2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasanthl8)
@@ -145,7 +141,7 @@ Interactive mood tracking app with dynamic UI transitions, fully responsive. Pri
 
 ## 💼 Internship Experience
 
-| Color | Role | Company | Period | Key Work |
+| &nbsp; | Role | Company | Period | Key Work |
 |:---:|------|---------|--------|----------|
 | 🟠 | AI & IoT Development Intern | Hackniverse | Dec 2025 – Jan 2026 | 8 IoT circuits, sensor automation |
 | 🔴 | Cybersecurity Intern | Top Tech Developers | Jun – Aug 2025 | OWASP, vulnerability assessments |
@@ -157,16 +153,16 @@ Interactive mood tracking app with dynamic UI transitions, fully responsive. Pri
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasanthl8&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanthl8&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasanthl8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanthl8&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prasanthl8&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Prasanthl8&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanthl8&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffa657&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanthl8&bg_color=1a1b27&color=58a6ff&line=bc8cff&point=ffa657&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -189,7 +185,7 @@ Interactive mood tracking app with dynamic UI transitions, fully responsive. Pri
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Prasanthl8/Prasanthl8/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Prasanthl8/Prasanthl8/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
